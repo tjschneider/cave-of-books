@@ -28,6 +28,10 @@ link_text = "Download?"
 link_url = "#"
 open_in_new_tab = false
 [[page_sections.navigation]]
+link_text = "test"
+link_url = "/"
+open_in_new_tab = false
+[[page_sections.navigation]]
 link_text = "Home"
 link_url = "/"
 open_in_new_tab = false
