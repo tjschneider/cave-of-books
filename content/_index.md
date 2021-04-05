@@ -10,7 +10,7 @@ page_sections:
   - link_url: "/"
     link_text: Home
   - link_url: "/my-totally-cool-page"
-    link_text: Neue Seite
+    link_text: Sachbücher
   - link_url: "#"
     link_text: Pricing
   - link_url: "#"
