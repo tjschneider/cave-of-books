@@ -1,4 +1,4 @@
 baseURL = ""
-languageCode = "en-us"
+languageCode = "de-de"
 theme = "ubuild-hugo"
-title = "uBuild: A Page Builder For Hugo and Forestry.io"
+title = "Bücherhöhle"
