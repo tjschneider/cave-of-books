@@ -33,5 +33,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- content/Blog/test123.md
 - content/all-available-blocks.md
 - content/my-totally-cool-page.md
