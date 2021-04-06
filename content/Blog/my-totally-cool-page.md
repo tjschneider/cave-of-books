@@ -11,9 +11,8 @@ link_text = "test"
 link_url = "/"
 open_in_new_tab = false
 [[page_sections]]
-block = "one-column-1"
-content = "<strong>Here we go...</strong>"
-headline = "My Headline"
-template = "1-column-text"
+block = "hero-1"
+heading = "Top <br><strong>Sachbücher</strong>"
+template = "text-only-hero-banner"
 
 +++
